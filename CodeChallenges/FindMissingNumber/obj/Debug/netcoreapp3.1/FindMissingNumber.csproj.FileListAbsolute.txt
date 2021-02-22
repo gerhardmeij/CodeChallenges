@@ -1,0 +1,13 @@
+D:\GPersonal\Development\CodeChallenges\CodeChallenges\FindMissingNumber\bin\Debug\netcoreapp3.1\FindMissingNumber.exe
+D:\GPersonal\Development\CodeChallenges\CodeChallenges\FindMissingNumber\bin\Debug\netcoreapp3.1\FindMissingNumber.deps.json
+D:\GPersonal\Development\CodeChallenges\CodeChallenges\FindMissingNumber\bin\Debug\netcoreapp3.1\FindMissingNumber.runtimeconfig.json
+D:\GPersonal\Development\CodeChallenges\CodeChallenges\FindMissingNumber\bin\Debug\netcoreapp3.1\FindMissingNumber.runtimeconfig.dev.json
+D:\GPersonal\Development\CodeChallenges\CodeChallenges\FindMissingNumber\bin\Debug\netcoreapp3.1\FindMissingNumber.dll
+D:\GPersonal\Development\CodeChallenges\CodeChallenges\FindMissingNumber\bin\Debug\netcoreapp3.1\FindMissingNumber.pdb
+D:\GPersonal\Development\CodeChallenges\CodeChallenges\FindMissingNumber\obj\Debug\netcoreapp3.1\FindMissingNumber.csprojAssemblyReference.cache
+D:\GPersonal\Development\CodeChallenges\CodeChallenges\FindMissingNumber\obj\Debug\netcoreapp3.1\FindMissingNumber.AssemblyInfoInputs.cache
+D:\GPersonal\Development\CodeChallenges\CodeChallenges\FindMissingNumber\obj\Debug\netcoreapp3.1\FindMissingNumber.AssemblyInfo.cs
+D:\GPersonal\Development\CodeChallenges\CodeChallenges\FindMissingNumber\obj\Debug\netcoreapp3.1\FindMissingNumber.csproj.CoreCompileInputs.cache
+D:\GPersonal\Development\CodeChallenges\CodeChallenges\FindMissingNumber\obj\Debug\netcoreapp3.1\FindMissingNumber.dll
+D:\GPersonal\Development\CodeChallenges\CodeChallenges\FindMissingNumber\obj\Debug\netcoreapp3.1\FindMissingNumber.pdb
+D:\GPersonal\Development\CodeChallenges\CodeChallenges\FindMissingNumber\obj\Debug\netcoreapp3.1\FindMissingNumber.genruntimeconfig.cache

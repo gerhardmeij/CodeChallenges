@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\meijgl.MPACT\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\meijgl.MPACT\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
