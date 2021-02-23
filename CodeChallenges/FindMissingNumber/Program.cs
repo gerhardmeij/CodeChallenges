@@ -13,7 +13,7 @@ namespace FindMissingNumber
                 Random randomize = new Random();
                 string arrayNumbers = string.Empty;
 
-                //Insert random 9 numbers into array
+                //Generate array of size 9 and insert random values between 1 and 10
                 int[] numberArray = new int[9];
                 for (int i = 0; i < 9; i++)
                 {
@@ -34,8 +34,8 @@ namespace FindMissingNumber
                 //Calculate missing number
                 int arraySum = numberArray.Sum();
                 int arrayLength = numberArray.Length + 1;
-                int actualSum = (arrayLength * (arrayLength + 1)) / 2;
-                int missingNumber = actualSum - arraySum;
+                int summationSum = (arrayLength * (arrayLength + 1)) / 2;
+                int missingNumber = summationSum - arraySum;
 
 
                 Console.WriteLine($"Missing number id: {missingNumber}");
